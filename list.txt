@@ -1,2 +1,4 @@
 adding a new file through commands to git
 
+
+making some changes on github 
